@@ -7,7 +7,8 @@ Data: This folder contains any additional data files used in the analysis. You c
 
 Images: This folder contains images of charts and visualizations generated in the Excel file. These images can be used for presentations or reports.
 
-Analysis Sections
+**Analysis Sections**
+
 The Excel file is organized into different sheets, each dedicated to a specific aspect of the analysis. Here is an overview of the main sections:
 
 Data Overview: An initial look at the data and its structure.
