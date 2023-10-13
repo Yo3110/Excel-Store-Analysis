@@ -1,4 +1,4 @@
-# Excel-Store-Analysis
+# Excel-Vrinda-Store-Analysis
 This repository contains an Excel file for analyzing the data of Vrinda Store, a fictional retail business. The purpose of this analysis is to gain insights into the store's performance, make data-driven decisions, and identify areas for improvement. The Excel file contains various sheets with data, charts, and tables to help you understand the store's performance from different perspectives.
 Repository Structure
 Vrinda_Store_Analysis.xlsx: This is the main Excel file that contains all the data and analysis sheets. You can download and open this file to explore the data and analysis.
