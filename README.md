@@ -22,4 +22,5 @@ Customer Analysis: Insights into customer demographics, loyalty, and preferences
 Profitability Analysis: Assessment of the store's profitability, including margins and cost breakdowns.
 
 Recommendations: Suggestions and actionable insights based on the analysis.
+
 ![Screenshot of Dashboard](https://github.com/Yo3110/Excel-Store-Analysis/assets/143214362/230190c7-fbf7-452f-a37a-5144f44d6f26)
