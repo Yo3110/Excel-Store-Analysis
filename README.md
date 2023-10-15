@@ -7,7 +7,7 @@ Data: This folder contains any additional data files used in the analysis. You c
 
 Images: This folder contains images of charts and visualizations generated in the Excel file. These images can be used for presentations or reports.
 
-**Analysis Sections**
+****Analysis Sections****
 
 The Excel file is organized into different sheets, each dedicated to a specific aspect of the analysis. Here is an overview of the main sections:
 
@@ -22,3 +22,4 @@ Customer Analysis: Insights into customer demographics, loyalty, and preferences
 Profitability Analysis: Assessment of the store's profitability, including margins and cost breakdowns.
 
 Recommendations: Suggestions and actionable insights based on the analysis.
+![Screenshot of Dashboard](https://github.com/Yo3110/Excel-Store-Analysis/assets/143214362/230190c7-fbf7-452f-a37a-5144f44d6f26)
